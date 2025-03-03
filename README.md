@@ -38,7 +38,7 @@ This project utilizes **machine learning** to predict diseases based on user-inp
 - ✅ Optimize model performance.
 
 # 👤 Developer
-- **👨‍💻 Abdullah Tarek**
+- **👨‍💻 Abdallah Tarek**
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdalla-tarek-21a025263/)
 
 🚀 An effective project for credit score classification using machine learning!
